@@ -1,0 +1,11 @@
+Potentially relevant web URL's for our Assignment 9:
+
+Assignment Motivation (previous work): 
+https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/
+
+Bureau of Labor Statistics (BLS):
+https://www.bls.gov/tus/
+https://www.bls.gov/tus/#data
+https://www.bls.gov/tus/lexiconwex2016.pdf
+https://www.bls.gov/tus/tu2016coderules.pdf
+https://www.bls.gov/tus/atussmcodebk16.pdf
