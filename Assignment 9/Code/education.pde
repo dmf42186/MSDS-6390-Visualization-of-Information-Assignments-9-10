@@ -1,0 +1,2 @@
+class education extends graph {
+}
