@@ -1,2 +1,0 @@
-class sports extends graph {
-}
