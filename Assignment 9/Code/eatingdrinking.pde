@@ -1,2 +1,0 @@
-class eatingdrinking extends graph {
-}
