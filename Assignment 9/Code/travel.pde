@@ -1,2 +1,0 @@
-class travel extends graph {
-}
