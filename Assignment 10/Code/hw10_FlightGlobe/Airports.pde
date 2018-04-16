@@ -17,7 +17,7 @@ class Airports extends Geom {
 
   // Methods
   // This method describes the sperical coordinate system which converts latitude and longitude to a 3D coordinate system
-  // Draw Flight Routes
+  // Draw Airports
   void plot() {
     for (int i=0; i<data1.length; i++) {
       float theta = radians(data1[i][0]);
