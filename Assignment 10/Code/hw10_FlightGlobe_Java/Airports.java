@@ -23,7 +23,7 @@ public class Airports extends Geom {
 
   // Methods
   // This method describes the spherical coordinate system which converts latitude and longitude to a 3D coordinate system
-  // Draw Flight Routes
+  // Draw Airports
   public void plot() {
     for (int i=0; i < data1.length; i++) {
       float theta = p.radians(data1[i][0]);
